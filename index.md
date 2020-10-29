@@ -2,4 +2,4 @@
 
 ## Week 0
 
-[Here](files/hw0_omeryildirim.html) is my 5 interesting examples.
+[Here](files/omer_homework_0.html) is my 5 interesting examples.
