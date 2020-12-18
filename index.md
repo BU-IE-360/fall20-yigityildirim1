@@ -7,3 +7,7 @@
 ## Homework 1
 
 [Here](files/omer_homework_1.ipynb) is my measurement and trend comparison
+
+## Homework 2
+
+[Here](files/omer_homework_2.ipynb) 
